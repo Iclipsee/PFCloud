@@ -1,0 +1,4 @@
+name: PFAPI
+version: Alpha
+main: de.Iclipse.PixelFruit.Main.Main
+author: Iclipse
